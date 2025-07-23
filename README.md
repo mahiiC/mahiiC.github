@@ -1,9 +1,18 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+# 👋 Hi I'm Mahima!
+
+I’m an aspiring Bioinformatician & Data Scientist, currently pursuing my **MS by Research in Bioinformatics** at **IIIT Hyderabad**. I’m particularly interested in **Omics data analysis** and in exploring how **Machine Learning** can be applied to uncover patterns in large and complex biological datasets that go undetected by the human brain.  
+
+
+💡 **Fun fact:** I don’t just stare at the computer all the time. I’ve also spent a fair bit of time in the lab growing bacteria, extracting proteins, running gels, and doing all the wet lab things that most bioinformaticians politely avoid. 😄 So if you're looking for someone who speaks both pipettes and Python—you know who to call!  
+
+
+Beyond academia, I like to immerse myself in mystery thriller movies and fiction novels. I also love learning new languages (currently learning Japanese!) and doodling. I'm also a trained artist and self-taught vocalist.  
+
+**This personal website+blog was created using Academic Pages, which is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
 ![Academic Pages template example](images/homepage.png "Academic Pages template example")
 
-# Getting Started
+# Getting Started with Academic Pages
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Click the "Use this template" button in the top right.
