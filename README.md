@@ -10,8 +10,6 @@ Beyond academia, I like to immerse myself in mystery thriller movies and fiction
 
 **This personal website+blog was created using Academic Pages, which is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
-![Academic Pages template example](images/homepage.png "Academic Pages template example")
-
 # Getting Started with Academic Pages
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
