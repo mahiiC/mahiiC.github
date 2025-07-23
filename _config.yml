@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-IN"
 site_theme               : "default"
-title                    : "My Portfolio"
+title                    : "Mahima's Homepage"
 title_separator          : "-"
 name                     : &name "Mahima Chakraborty"
 description              : &description "MS by Research Bioinformatics student at IIIT Hyderabad"
